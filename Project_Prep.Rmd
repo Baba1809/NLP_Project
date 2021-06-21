@@ -16,6 +16,16 @@ knitr::opts_chunk$set(echo = TRUE)
 - The Enron-Spam dataset ( http://nlp.cs.aueb.gr/software_and_datasets/Enron-Spam/ )
 - Amazon Reviews ( https://www.kaggle.com/kritanjalijain/amazon-reviews/metadata )
 
+1.Zareapoor, M.; Seeja, K.R. Feature extraction or feature selection for text classification: A case study on phishing email detection.
+Int. J. Inf. Eng. Electron. Bus. 2015, 7, 60. [CrossRef]
+2. Smadi, S.; Aslam, N.; Zhang, L. Detection of online phishing email using dynamic evolving neural network based on reinforcement
+learning. Decis. Support Syst. 2018, 107, 88–102. [CrossRef]
+3. Toolan, F.; Carthy, J. Feature selection for spam and phishing detection. In Proceedings of the 2010 eCrime Researchers Summit,
+Dallas, TX, USA, 18–20 October 2010; IEEE: New York, NY, USA, 2010; pp. 1–12.
+4. Verma, R.M.; Zeng, V.; Faridi, H. Data Quality for Security Challenges: Case Studies of Phishing, Malware and Intrusion Detection
+Datasets. In Proceedings of the 2019 ACM SIGSAC Conference on Computer and Communications Security, London, UK, 11–15
+November 2019; pp. 2605–2607.
+
 ## Two potential hypotheses
 - The email can be classified as spam or otherwise using text classification and languagae analysis
 - The 1-5 star rating on an Amazon product review can be predicted from the text of the review
